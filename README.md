@@ -1,2 +1,3 @@
 # Computer Programming 2 Activities and Assignments
- 
+ # I am Val ...
+# This are the activities and assignments we had done over the semester.
